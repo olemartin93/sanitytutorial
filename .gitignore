@@ -1,1 +1,8 @@
 node_modules
+.next
+
+#Studio folder
+studio/sanity.json
+studio/node_modules
+.env.development
+studio/.env.development
